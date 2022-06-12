@@ -4,3 +4,5 @@ wheel==0.36.2
 Flask
 numpy
 pandas
+gunicorn
+Docker
